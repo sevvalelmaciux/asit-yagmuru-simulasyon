@@ -13,4 +13,4 @@ Simülasyon, insan faaliyetlerinin çevre üzerindeki etkisini görsel olarak or
 Bu proje eğitim amaçlı hazırlanmıştır.
 
 ## 🔗 Canlı Simülasyon
-Site yayınlandıktan sonra link buraya eklenecektir.
+https://sevvalelmaciux.github.io/asit-yagmuru-simulasyon/ adresinde yayında.
